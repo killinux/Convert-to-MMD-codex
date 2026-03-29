@@ -1,0 +1,4 @@
+1. 选mblab改，
+2. 改成mblab_gantz.json
+3. 1234后，
+4. 权重模式的spine_01 改成 腰
